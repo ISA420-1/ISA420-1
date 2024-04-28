@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about creating valuable resources a
 Feel free to explore my repositories to see more of my work!
 
 ## Let's Connect
-- Twitter: [[ISA](https://twitter.com/ISANUN669)](link)
+- Twitter: [[ISA](https://twitter.com/ISANUN669)]
 - Website: [[Aogamers.net](https://tarn.aogamers.net/)]
 
 Looking forward to connecting with you!
