@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about creating valuable resources a
 - 👀 I'm interested in **creating free resources** and **helping others succeed**.
 - 🌱 I'm currently learning [lua/python/blender/hammer/ark].
 - 💞️ I'm looking to collaborate on **open-source projects** and initiatives that promote **accessibility** and **inclusivity**.
-- 📫 You can reach me at [isanun,@ISANUN669,@iSUCKfATASS].
+- 📫 You can reach me at [isanun,@ISUCKAZZ,@iSUCKfATASS].
 - ⚡ Fun Fact: [I cant really deal with all these hoes].
 
 ## How I Make a Living
