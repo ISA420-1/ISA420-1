@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm ISA420-1
+# Hi there! I'm ISUCKAZZ
 
 Welcome to my GitHub profile! I'm passionate about creating valuable resources and making a positive impact in the world
 
