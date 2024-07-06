@@ -20,6 +20,6 @@ Feel free to explore my repositories to see more of my work!
 
 ## Let's Connect
 - Twitter: [[ISA](https://twitter.com/ISANUN669)]
-- Website: [[Aogamers.net](https://tarn.aogamers.net/)]
+- Youtube: [[Aogamers.net](https://www.youtube.com/channel/UC8RmN09vgGJUnlhNYo1Kgpg)]
 
 Looking forward to connecting with you!
