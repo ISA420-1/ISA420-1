@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about creating valuable resources a
 - **Ads and Sponsorships**: Monetizing my platform through ads and sponsorships.
 
 ## Projects
-- A darkrp server
+- software stuff
 
 
 Feel free to explore my repositories to see more of my work!
